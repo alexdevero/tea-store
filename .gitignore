@@ -1,0 +1,7 @@
+__ignore__/
+.build/
+.next/
+node_modules/
+.DS_Store
+*.log
+variables.env
